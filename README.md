@@ -52,7 +52,7 @@ Table of Contents
 * [How Can I Contribute?](#how-can-i-contribute)
 * [License](#license)
 
-Quick Start
+Quick Starts
 ===========
 
 **Prerequisites** for building libgit2:
